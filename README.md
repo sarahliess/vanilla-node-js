@@ -1,4 +1,4 @@
-# Some vanilla Node.js exercises and their corrections.
+# Vanilla Node.js exercises & corrections
 
 ## Exercises:
 
